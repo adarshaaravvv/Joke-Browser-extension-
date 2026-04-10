@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Vaibhav",
+    "version": "1.0",
+    "description": "A minimalistic extension that tells a joke.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Tell me a joke!"
+    },
+    "permissions": []
+  }
